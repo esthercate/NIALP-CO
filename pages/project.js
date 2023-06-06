@@ -9,7 +9,7 @@ const project = () => {
         <title>Project1</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <h1>First Post</h1>
+      <h1 className='text-3xl text-green-600 p-2'>First Post</h1>
       <h2>
         <Link href='/'>Back to home</Link>
       </h2>
