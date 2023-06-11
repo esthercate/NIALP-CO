@@ -4,7 +4,7 @@ import HeroSection from './component/hero-section/HeroSection'
 
 const Hero = () => {
   return (
-    <div>
+    <div className='w-full h-4/5 bg-white'>
       <HeroSection />
     </div>
   )
