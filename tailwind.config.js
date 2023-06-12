@@ -16,6 +16,9 @@ module.exports = {
         'p-orange': '#e9920f',
         'p-white': '#ffffff',
       },
+      backgroundImage: {
+        'herobg': "url('/public/assets/bg-hero.jpg')",
+      },
     },
   },
   plugins: [],
