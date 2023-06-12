@@ -8,7 +8,10 @@ export default function Home() {
         <title>NIALP Construction</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <p>Home page</p>
+      <div>
+      
+      </div>
+      
     </>
   )
 }
